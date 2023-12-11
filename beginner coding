@@ -1,0 +1,17 @@
+Hello, im twix1xy, but call me twix.
+I will show how lua works for u noobs or pros idk. (roblox edition lol)
+
+---------------
+Printing
+---------------
+You can use printing for making sure your code either works. You can use it so you can make sure that the code works well and nothing fails.
+EXAMPLE:
+
+function testing()
+  local vNum = 10
+  local vNum2 = 200
+  print(vNum + vNum2)
+  print("Both variables are working!")
+end
+
+testing() <-- This is what you use to run a function so it doesn't look boring the way you see it. If you don't include this then, your function wont work.
